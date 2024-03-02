@@ -9,3 +9,6 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+.status-indicator {
+    background-color: #ff545f; /* Apply the class-specific background color */
+}

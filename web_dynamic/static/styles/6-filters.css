@@ -97,7 +97,14 @@ button:hover {
     margin-left: 0px;
 }
 
-.amenities:hover .popover,
+.amenities:hover .popover
 .locations:hover .popover {
     visibility: visible;
 }
+
+.amenity-checkbox {
+        margin-right: 5px; /* Adjust spacing between checkbox and text */
+        vertical-align: middle;
+        position: absolute;
+        left: 10px; /* Position checkbox 10px from the left */
+    }
